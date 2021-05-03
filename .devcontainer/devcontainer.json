@@ -1,0 +1,8 @@
+{
+  "dockerComposeFile": [
+      "../docker-compose.yml"
+  ],
+  "service": "jekyll",
+  "workspaceFolder": "/srv/jekyll",
+  "shutdownAction": "stopCompose"
+}
